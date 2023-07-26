@@ -9,7 +9,7 @@ using namespace std; // cout, endl, complex are all part of this namespace
 
 int main()
 {
-	cout << "Let's say i finished this part and i am ready to commit" << endl;
+	cout << "what if i did not commit this" << endl;
 	auto num1 = complex<float>{2.0, 2.0};  // use auto for type deduction
 	auto num2 = complex<float>{4.0, -2.0}; // use uniform initialisation syntax (curly braces)
 
